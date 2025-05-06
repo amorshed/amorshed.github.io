@@ -32,5 +32,11 @@ User-agent: Omgili
 Disallow: /
 User-agent: YouBot
 Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: CCbot
+Disallow: /
+User-agent: PiplBot
+Disallow: /
 
 Sitemap: https://amorshed.github.io/sitemap.xml
